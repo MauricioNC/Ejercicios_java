@@ -6,7 +6,6 @@ public class Transacciones {
 	
 	private int retiro;
 	private int deposito;
-	private int transferencia;
 	private float prestamo;
 	private float disponible;
 	private boolean denegated;
